@@ -9,10 +9,7 @@ import java.awt.Font;
 import javax.swing.JOptionPane;
 import javax.swing.JTextField;
 
-/**
- *
- * @author ishwaryadav
- */
+
 public class JLogin extends javax.swing.JFrame {
 
     /**

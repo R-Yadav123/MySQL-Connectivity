@@ -12,10 +12,7 @@ import java.sql.DriverManager;
 import java.sql.PreparedStatement;
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author ishwaryadav
- */
+
 public class Museum extends javax.swing.JFrame {
     double cost;
     Connection con;

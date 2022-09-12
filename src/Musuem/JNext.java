@@ -11,10 +11,7 @@ import java.sql.PreparedStatement;
 import javax.swing.JOptionPane;
 import javax.swing.JTextField;
 
-/**
- *
- * @author ishwaryadav
- */
+
 public class JNext extends javax.swing.JFrame {
     Connection con;
     /**
